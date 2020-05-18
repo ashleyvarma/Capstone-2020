@@ -1,3 +1,6 @@
+VIDEO: (edited together from various videos on the Henry Art Gallery's youtube page)
+https://www.youtube.com/watch?v=oZTNLdzEJGQ
+
 THEME: Cachet - Free Bootstrap 4 Theme
 AUTHOR: uiCookies.com
 LICENSE: Under Creative Commons 3.0 (uiCookies.com/license)
@@ -38,5 +41,3 @@ https://ionicons.com/
 
 jQuery Easing
 http://gsgd.co.uk/sandbox/jquery/easing/
-
-Video
