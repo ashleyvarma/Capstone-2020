@@ -39,4 +39,5 @@ https://ionicons.com/
 jQuery Easing
 http://gsgd.co.uk/sandbox/jquery/easing/
 
-Video
+Video (edited together from various videos on the Henry Art Gallery's youtube page)
+https://www.youtube.com/watch?v=oZTNLdzEJGQ
